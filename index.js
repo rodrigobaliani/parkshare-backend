@@ -7,6 +7,8 @@ const path = require('path');
 const paymentMethodsController = require(path.join(__dirname, './src/controllers/paymentMethodsController.js'))
 const vehicleController = require(path.join(__dirname, './src/controllers/vehicleController.js'))
 const colabParkingController = require(path.join(__dirname, './src/controllers/colabParkingController.js'))
+const parkingInstructionsController = require(path.join(__dirname, './src/controllers/parkingInstructionsController.js'))
+
 
 const { initializeApp } = require('./src/utils/firebase');
 
@@ -147,6 +149,51 @@ app.delete('/parkings/colab/:parkingId', async (req, res) => {
     try {
         const response = await colabParkingController.editColabParking(req.params.parkingId)
         res.status(response.code).send(response.result)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+//Get parking instructions
+app.get('/parkings/instructions1', async (req, res) => {
+    try {
+        if(req.query.toIndex > 50356)
+            req.query.toIndex = 50356;
+        const response = await parkingInstructionsController.getParkingInstructions1(req.query.fromIndex, req.query.toIndex);
+        res.status(response.code).send(response)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+app.get('/parkings/instructions2', async (req, res) => {
+    try {
+        if(req.query.toIndex > 50356)
+            req.query.toIndex = 50356;
+        const response = await parkingInstructionsController.getParkingInstructions2(req.query.fromIndex, req.query.toIndex);
+        res.status(response.code).send(response)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+app.get('/parkings/instructions3', async (req, res) => {
+    try {
+        if(req.query.toIndex > 50356)
+            req.query.toIndex = 50356;
+        const response = await parkingInstructionsController.getParkingInstructions3(req.query.fromIndex, req.query.toIndex);
+        res.status(response.code).send(response)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+app.get('/parkings/instructions4', async (req, res) => {
+    try {
+        if(req.query.toIndex > 50356)
+            req.query.toIndex = 50356;
+        const response = await parkingInstructionsController.getParkingInstructions4(req.query.fromIndex, req.query.toIndex);
+        res.status(response.code).send(response)
     } catch (error) {
         console.log(error)
     }
