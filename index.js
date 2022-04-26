@@ -155,44 +155,9 @@ app.delete('/parkings/colab/:parkingId', async (req, res) => {
 })
 
 //Get parking instructions
-app.get('/parkings/instructions1', async (req, res) => {
+app.get('/parkings/instructions', async (req, res) => {
     try {
-        if(req.query.toIndex > 50356)
-            req.query.toIndex = 50356;
-        const response = await parkingInstructionsController.getParkingInstructions1(req.query.fromIndex, req.query.toIndex);
-        res.status(response.code).send(response)
-    } catch (error) {
-        console.log(error)
-    }
-})
-
-app.get('/parkings/instructions2', async (req, res) => {
-    try {
-        if(req.query.toIndex > 50356)
-            req.query.toIndex = 50356;
-        const response = await parkingInstructionsController.getParkingInstructions2(req.query.fromIndex, req.query.toIndex);
-        res.status(response.code).send(response)
-    } catch (error) {
-        console.log(error)
-    }
-})
-
-app.get('/parkings/instructions3', async (req, res) => {
-    try {
-        if(req.query.toIndex > 50356)
-            req.query.toIndex = 50356;
-        const response = await parkingInstructionsController.getParkingInstructions3(req.query.fromIndex, req.query.toIndex);
-        res.status(response.code).send(response)
-    } catch (error) {
-        console.log(error)
-    }
-})
-
-app.get('/parkings/instructions4', async (req, res) => {
-    try {
-        if(req.query.toIndex > 50356)
-            req.query.toIndex = 50356;
-        const response = await parkingInstructionsController.getParkingInstructions4(req.query.fromIndex, req.query.toIndex);
+        const response = await parkingInstructionsController.getParkingInstructions();
         res.status(response.code).send(response)
     } catch (error) {
         console.log(error)
