@@ -7552,6 +7552,606 @@
         {
             "type": "Feature",
             "properties": {
+                "id": 8062,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "4367",
+                "sm": "21-076",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 2,
+                "regla_general": "PERMITIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": 6,
+                "normativa": "PERMITIDO ESTACIONAR A 45\u00c2\u00b0",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.408527933649445,
+                            -34.57812476445237
+                        ],
+                        [
+                            -58.40750541088913,
+                            -34.57859322686093
+                        ],
+                        [
+                            -58.40718568055352,
+                            -34.578748000872295
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8141,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28150",
+                "sm": "21-132",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41525252292008,
+                            -34.57501229486942
+                        ],
+                        [
+                            -58.41522396938796,
+                            -34.575086058160615
+                        ],
+                        [
+                            -58.41515020609676,
+                            -34.57514316522477
+                        ],
+                        [
+                            -58.41507211021325,
+                            -34.57516797909548
+                        ],
+                        [
+                            -58.415016956280446,
+                            -34.57516458037381
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8430,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "3819",
+                "sm": "21-132",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41479368358995,
+                            -34.57484618051326
+                        ],
+                        [
+                            -58.41483611724395,
+                            -34.574795763917884
+                        ],
+                        [
+                            -58.41487999517842,
+                            -34.57476143405701
+                        ],
+                        [
+                            -58.41494031220651,
+                            -34.5747418701612
+                        ],
+                        [
+                            -58.415007438436426,
+                            -34.57473627739276
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8522,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28963",
+                "sm": "23-101Z",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.443130663866725,
+                            -34.56201631753286
+                        ],
+                        [
+                            -58.44334005643526,
+                            -34.56186879095051
+                        ],
+                        [
+                            -58.44355986633433,
+                            -34.56178625483291
+                        ],
+                        [
+                            -58.44410911966675,
+                            -34.56162813372125
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8541,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28970",
+                "sm": "23-114",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.44138587329174,
+                            -34.56259087723166
+                        ],
+                        [
+                            -58.44053934053164,
+                            -34.56272431501134
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8562,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28969",
+                "sm": "23-125",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.44018016294775,
+                            -34.562782772677245
+                        ],
+                        [
+                            -58.439741547613224,
+                            -34.56283293223012
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23791,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28963",
+                "sm": "23-101Z",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.44231212928064,
+                            -34.562049629986895
+                        ],
+                        [
+                            -58.44324963691695,
+                            -34.56180692496431
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37711,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "6186",
+                "sm": "07-012",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.3852170720762,
+                            -34.5870927545641
+                        ],
+                        [
+                            -58.38587347869476,
+                            -34.58673547641278
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41844,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "12107",
+                "id_eje": "28975",
+                "sm": "23-126",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 2,
+                "regla_general": "PERMITIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.4445115580488,
+                            -34.56062315543773
+                        ],
+                        [
+                            -58.44401345280279,
+                            -34.56118187020694
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41845,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "12107",
+                "id_eje": "28974",
+                "sm": "23-127",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 2,
+                "regla_general": "PERMITIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.44528433364985,
+                            -34.55971608354644
+                        ],
+                        [
+                            -58.444634479792306,
+                            -34.56046352181323
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 44656,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "7522",
+                "sm": "03-045A",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.374158371957535,
+                            -34.59370316619678
+                        ],
+                        [
+                            -58.374725533854615,
+                            -34.59337389168776
+                        ],
+                        [
+                            -58.37521133776042,
+                            -34.59310171643903
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46718,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "2162",
+                "sm": "23-101",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.444089474609584,
+                            -34.561848978989836
+                        ],
+                        [
+                            -58.44312128358761,
+                            -34.562152845751875
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46730,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "2214",
+                "sm": "23-115",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.44257438758066,
+                            -34.562302363896166
+                        ],
+                        [
+                            -58.441620319928674,
+                            -34.562541684440674
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46739,
+                "calle": "DEL LIBERTADOR AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "12107",
+                "id_eje": "28967",
+                "sm": "23-124",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 2,
+                "normativa": "PERMITIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.439551954513924,
+                            -34.56284912888489
+                        ],
+                        [
+                            -58.43848417968431,
+                            -34.563051042030814
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": 46457,
                 "calle": "DEL LIBERTADOR AV.",
                 "tipo_calle": "AVENIDA",
@@ -77417,6 +78017,2198 @@
                         [
                             -58.445295352413666,
                             -34.570937592150635
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5297,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28939",
+                "sm": "23-003C",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43470166917621,
+                            -34.575448168599195
+                        ],
+                        [
+                            -58.43546991706134,
+                            -34.57510817532268
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5520,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28942",
+                "sm": "35-120",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43412373300967,
+                            -34.575723216899206
+                        ],
+                        [
+                            -58.43316228456587,
+                            -34.57615126611035
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36944,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "7947",
+                "sm": "03-021",
+                "lado": "izquierdo",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.38010110385544,
+                            -34.595322251430346
+                        ],
+                        [
+                            -58.38122006908382,
+                            -34.595420705239306
+                        ],
+                        [
+                            -58.381325489980696,
+                            -34.59542964975922
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40761,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4954",
+                "sm": "19-173",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42258309090954,
+                            -34.5806938803631
+                        ],
+                        [
+                            -58.42188813695694,
+                            -34.581175683681664
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40762,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4818",
+                "sm": "19-174",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.423570020764565,
+                            -34.58000507384725
+                        ],
+                        [
+                            -58.422762513035124,
+                            -34.58056487513948
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40763,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4684",
+                "sm": "19-175",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.424376527664755,
+                            -34.579453779902906
+                        ],
+                        [
+                            -58.42377117749866,
+                            -34.57986718261758
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40764,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "27848",
+                "sm": "19-176",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.425283052745804,
+                            -34.57885088681137
+                        ],
+                        [
+                            -58.42479605218412,
+                            -34.579175744449586
+                        ],
+                        [
+                            -58.424556267447784,
+                            -34.5793167107694
+                        ],
+                        [
+                            -58.424549877622844,
+                            -34.579320610642036
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41944,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28945",
+                "sm": "35-119",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43290340252493,
+                            -34.57626007673499
+                        ],
+                        [
+                            -58.4317792086167,
+                            -34.57665762040593
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48171,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4362",
+                "sm": "35-115",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.427372624974915,
+                            -34.57798790371068
+                        ],
+                        [
+                            -58.42683682801301,
+                            -34.57815895175851
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48191,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4327",
+                "sm": "35-116",
+                "lado": "derecho",
+                "altura": "",
+                "paridad": "S/N",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 0,
+                "altura_hasta": 0
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42861787307506,
+                            -34.577583713513185
+                        ],
+                        [
+                            -58.42847700543697,
+                            -34.57763334234561
+                        ],
+                        [
+                            -58.427593169138085,
+                            -34.57791972370406
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39366,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6652",
+                "sm": "15-014C",
+                "lado": "derecho",
+                "altura": "3201 - 3259",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3201,
+                "altura_hasta": 3259
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41015201309254,
+                            -34.58889339389569
+                        ],
+                        [
+                            -58.410923899870205,
+                            -34.588368535439585
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39374,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6652",
+                "sm": "15-013A",
+                "lado": "izquierdo",
+                "altura": "3202 - 3260",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3202,
+                "altura_hasta": 3260
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41023496879926,
+                            -34.58904558383888
+                        ],
+                        [
+                            -58.41100685646464,
+                            -34.58852072487197
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39362,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6500",
+                "sm": "15-014C",
+                "lado": "derecho",
+                "altura": "3261 - 3299",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3261,
+                "altura_hasta": 3299
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41100656614742,
+                            -34.588325772873745
+                        ],
+                        [
+                            -58.41130334279142,
+                            -34.588131157602014
+                        ],
+                        [
+                            -58.411403784992736,
+                            -34.58806375286922
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39375,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6500",
+                "sm": "15-013B",
+                "lado": "izquierdo",
+                "altura": "3262 - 3300",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3262,
+                "altura_hasta": 3300
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.411155990780074,
+                            -34.58842981980954
+                        ],
+                        [
+                            -58.41145276744636,
+                            -34.58823520417781
+                        ],
+                        [
+                            -58.41155320965248,
+                            -34.5881677993232
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46402,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6424",
+                "sm": "21-001A",
+                "lado": "derecho",
+                "altura": "3301 - 3329",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3301,
+                "altura_hasta": 3329
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.411562374594034,
+                            -34.58795560271894
+                        ],
+                        [
+                            -58.41168975296116,
+                            -34.58787022444616
+                        ],
+                        [
+                            -58.41207655312016,
+                            -34.58761413946378
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9348,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6424",
+                "sm": "19-162",
+                "lado": "izquierdo",
+                "altura": "3302 - 3330",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3302,
+                "altura_hasta": 3330
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.4116794561026,
+                            -34.58808759873678
+                        ],
+                        [
+                            -58.41180683455172,
+                            -34.58800222034372
+                        ],
+                        [
+                            -58.41225438955126,
+                            -34.587705408058156
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46411,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6289",
+                "sm": "21-001B",
+                "lado": "derecho",
+                "altura": "3351 - 3399",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3351,
+                "altura_hasta": 3399
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.412292460927276,
+                            -34.587474600340464
+                        ],
+                        [
+                            -58.4130049162224,
+                            -34.587004693786035
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9349,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6289",
+                "sm": "19-163",
+                "lado": "izquierdo",
+                "altura": "3352 - 3400",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3352,
+                "altura_hasta": 3400
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41251088729591,
+                            -34.58754183587049
+                        ],
+                        [
+                            -58.41314766859444,
+                            -34.587120232675716
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46412,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6175",
+                "sm": "21-002",
+                "lado": "derecho",
+                "altura": "3401 - 3499",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3401,
+                "altura_hasta": 3499
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41318009577558,
+                            -34.58689010896048
+                        ],
+                        [
+                            -58.4139046425664,
+                            -34.58641039590695
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9351,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6175",
+                "sm": "19-165",
+                "lado": "izquierdo",
+                "altura": "3402 - 3500",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3402,
+                "altura_hasta": 3500
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.413328445919625,
+                            -34.587000455214316
+                        ],
+                        [
+                            -58.414052992817574,
+                            -34.58652074128884
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46413,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6037",
+                "sm": "21-003",
+                "lado": "derecho",
+                "altura": "3501 - 3599",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3501,
+                "altura_hasta": 3599
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.414079807017764,
+                            -34.58628698406733
+                        ],
+                        [
+                            -58.41482240218011,
+                            -34.58579532891628
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9354,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "6037",
+                "sm": "19-166",
+                "lado": "izquierdo",
+                "altura": "3502 - 3600",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3502,
+                "altura_hasta": 3600
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41423862337781,
+                            -34.58639239266497
+                        ],
+                        [
+                            -58.41498121854439,
+                            -34.58590073655607
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46414,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5913",
+                "sm": "21-004",
+                "lado": "derecho",
+                "altura": "3601 - 3699",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3601,
+                "altura_hasta": 3699
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41500730683508,
+                            -34.58567204772103
+                        ],
+                        [
+                            -58.41510059311451,
+                            -34.58561028189759
+                        ],
+                        [
+                            -58.41577691506568,
+                            -34.5851618872144
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9361,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5913",
+                "sm": "19-167",
+                "lado": "izquierdo",
+                "altura": "3602 - 3700",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3602,
+                "altura_hasta": 3700
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41516720034641,
+                            -34.5857777499905
+                        ],
+                        [
+                            -58.4152604866259,
+                            -34.585715984045905
+                        ],
+                        [
+                            -58.415936808576355,
+                            -34.585267588484434
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47210,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5774",
+                "sm": "21-005",
+                "lado": "derecho",
+                "altura": "3701 - 3779",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3701,
+                "altura_hasta": 3779
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41596136962807,
+                            -34.58503986693059
+                        ],
+                        [
+                            -58.41633370373515,
+                            -34.5847930504942
+                        ],
+                        [
+                            -58.41658763653551,
+                            -34.58461912523394
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9350,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5774",
+                "sm": "19-168",
+                "lado": "izquierdo",
+                "altura": "3702 - 3780",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3702,
+                "altura_hasta": 3780
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.416132099661525,
+                            -34.5851334554949
+                        ],
+                        [
+                            -58.416504433682164,
+                            -34.5848866385414
+                        ],
+                        [
+                            -58.41675836641213,
+                            -34.58471271292852
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9377,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5657",
+                "sm": "21-006",
+                "lado": "derecho",
+                "altura": "3781 - 3799",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3781,
+                "altura_hasta": 3799
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41680026439981,
+                            -34.58447541310846
+                        ],
+                        [
+                            -58.41710310032235,
+                            -34.58426803141862
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9353,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5657",
+                "sm": "19-168",
+                "lado": "izquierdo",
+                "altura": "3782 - 3800",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3782,
+                "altura_hasta": 3800
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41681512340691,
+                            -34.58467633786985
+                        ],
+                        [
+                            -58.417117960022054,
+                            -34.5844689561505
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9376,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5610",
+                "sm": "21-006",
+                "lado": "derecho",
+                "altura": "3801 - 3899",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3801,
+                "altura_hasta": 3899
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41720372983747,
+                            -34.58419719541912
+                        ],
+                        [
+                            -58.41766385676091,
+                            -34.58388208545838
+                        ],
+                        [
+                            -58.418118974678606,
+                            -34.58356913263277
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47203,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5610",
+                "sm": "19-169",
+                "lado": "izquierdo",
+                "altura": "3802 - 3900",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3802,
+                "altura_hasta": 3900
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41730828341361,
+                            -34.584339547058484
+                        ],
+                        [
+                            -58.41776841072806,
+                            -34.58402443671121
+                        ],
+                        [
+                            -58.41822352903091,
+                            -34.583711483503315
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9380,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5433",
+                "sm": "21-006",
+                "lado": "derecho",
+                "altura": "3901 - 3999",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 3901,
+                "altura_hasta": 3999
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41831230326106,
+                            -34.5834362972284
+                        ],
+                        [
+                            -58.419749023314644,
+                            -34.58244834960378
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47209,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5433",
+                "sm": "19-170",
+                "lado": "izquierdo",
+                "altura": "3902 - 4000",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 3902,
+                "altura_hasta": 4000
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.418511680520176,
+                            -34.58351069418899
+                        ],
+                        [
+                            -58.419948399498246,
+                            -34.58252274422861
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9385,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5184",
+                "sm": "21-006",
+                "lado": "derecho",
+                "altura": "4001 - 4099",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 4001,
+                "altura_hasta": 4099
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.41991388706696,
+                            -34.58233538066031
+                        ],
+                        [
+                            -58.41999771452451,
+                            -34.58227776242553
+                        ],
+                        [
+                            -58.420214959195754,
+                            -34.582124830077284
+                        ],
+                        [
+                            -58.42027537149725,
+                            -34.58206151723975
+                        ],
+                        [
+                            -58.42032723887514,
+                            -34.581998641633724
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46278,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5184",
+                "sm": "19-171",
+                "lado": "izquierdo",
+                "altura": "4002 - 4100",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4002,
+                "altura_hasta": 4100
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.420193684066774,
+                            -34.582355975747646
+                        ],
+                        [
+                            -58.4202775113521,
+                            -34.58229835732082
+                        ],
+                        [
+                            -58.420752714929115,
+                            -34.5819689302369
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40760,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5108",
+                "sm": "19-172",
+                "lado": "derecho",
+                "altura": "4101 - 4199",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4101,
+                "altura_hasta": 4199
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.421709476212655,
+                            -34.58130708082834
+                        ],
+                        [
+                            -58.42092381664875,
+                            -34.58185172206005
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40883,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "5108",
+                "sm": "21-007",
+                "lado": "izquierdo",
+                "altura": "4102 - 4200",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 4102,
+                "altura_hasta": 4200
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42155440463706,
+                            -34.58112709504814
+                        ],
+                        [
+                            -58.42064912302412,
+                            -34.58174370321845
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40891,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "27842",
+                "sm": "21-016A",
+                "lado": "derecho",
+                "altura": "4201 - 4299",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4201,
+                "altura_hasta": 4299
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42171345544129,
+                            -34.58067425505619
+                        ],
+                        [
+                            -58.421784718352356,
+                            -34.580635940938016
+                        ],
+                        [
+                            -58.422236396614984,
+                            -34.58034499507106
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40892,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "27846",
+                "sm": "21-016A",
+                "lado": "derecho",
+                "altura": "4301 - 4399",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4301,
+                "altura_hasta": 4399
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42239249309162,
+                            -34.580254710623606
+                        ],
+                        [
+                            -58.42325663260369,
+                            -34.57968179163535
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40893,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "27847",
+                "sm": "21-017",
+                "lado": "derecho",
+                "altura": "4401 - 4499",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4401,
+                "altura_hasta": 4499
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42343708608837,
+                            -34.5795769255718
+                        ],
+                        [
+                            -58.42372659995653,
+                            -34.57939475571835
+                        ],
+                        [
+                            -58.42408956961512,
+                            -34.57918674516162
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40912,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4556",
+                "sm": "21-018",
+                "lado": "derecho",
+                "altura": "4501 - 4599",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4501,
+                "altura_hasta": 4599
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.424303871254025,
+                            -34.5790531245449
+                        ],
+                        [
+                            -58.425046218493286,
+                            -34.57863628511189
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40913,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4464",
+                "sm": "21-019",
+                "lado": "derecho",
+                "altura": "4601 - 4699",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4601,
+                "altura_hasta": 4699
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42526068959679,
+                            -34.578504742978005
+                        ],
+                        [
+                            -58.4255912620845,
+                            -34.57831843981764
+                        ],
+                        [
+                            -58.42608070225837,
+                            -34.578134499909126
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9346,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4464",
+                "sm": "19-161",
+                "lado": "izquierdo",
+                "altura": "4602 - 4700",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4602,
+                "altura_hasta": 4700
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42546784615268,
+                            -34.578700844206466
+                        ],
+                        [
+                            -58.42558240377782,
+                            -34.57862778330973
+                        ],
+                        [
+                            -58.42584747442896,
+                            -34.578488619858064
+                        ],
+                        [
+                            -58.426016466192415,
+                            -34.578416178591276
+                        ],
+                        [
+                            -58.426263943533044,
+                            -34.578331090859
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46701,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "29808",
+                "sm": "23-068",
+                "lado": "derecho",
+                "altura": "4701 - 4869",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4701,
+                "altura_hasta": 4869
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42687837415382,
+                            -34.57773344130633
+                        ],
+                        [
+                            -58.428401229197505,
+                            -34.57725279018316
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8323,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "29811",
+                "sm": "23-001",
+                "lado": "derecho",
+                "altura": "4871 - 4899",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4871,
+                "altura_hasta": 4899
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42859255742956,
+                            -34.577297526668744
+                        ],
+                        [
+                            -58.4288711762219,
+                            -34.577259982681106
+                        ],
+                        [
+                            -58.4289084195336,
+                            -34.57725521602576
+                        ],
+                        [
+                            -58.428960470239744,
+                            -34.57724385274431
+                        ],
+                        [
+                            -58.42900227119345,
+                            -34.57723050001008
+                        ],
+                        [
+                            -58.429038396981255,
+                            -34.57721556709601
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23564,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "29811",
+                "sm": "23-001",
+                "lado": "derecho",
+                "altura": "4871 - 4899",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 1,
+                "horario_regla_general": "24 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4871,
+                "altura_hasta": 4899
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.428580222026085,
+                            -34.57726355703782
+                        ],
+                        [
+                            -58.42901949248214,
+                            -34.57682428891368
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9522,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4226",
+                "sm": "23-002",
+                "lado": "derecho",
+                "altura": "4901 - 4999",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4901,
+                "altura_hasta": 4999
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.4296081847576,
+                            -34.57705699727311
+                        ],
+                        [
+                            -58.43024674998532,
+                            -34.57687074573546
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48195,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4226",
+                "sm": "35-117",
+                "lado": "izquierdo",
+                "altura": "4902 - 5000",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 4902,
+                "altura_hasta": 5000
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.42888188032071,
+                            -34.57751453089374
+                        ],
+                        [
+                            -58.430064043510065,
+                            -34.57716551389572
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9517,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4185",
+                "sm": "23-002",
+                "lado": "derecho",
+                "altura": "5001 - 5099",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 5001,
+                "altura_hasta": 5099
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43028663861524,
+                            -34.57685643508679
+                        ],
+                        [
+                            -58.43144993138354,
+                            -34.57651713197986
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48196,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "AVENIDA",
+                "codigo_calle": "20057",
+                "id_eje": "4185",
+                "sm": "35-118",
+                "lado": "izquierdo",
+                "altura": "5002 - 5100",
+                "paridad": "PAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": null,
+                "normativa": null,
+                "horario_normativa_id": null,
+                "horario_normativa": null,
+                "tarifa": "",
+                "altura_desde": 5002,
+                "altura_hasta": 5100
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43033441729403,
+                            -34.57708920123739
+                        ],
+                        [
+                            -58.431497713111895,
+                            -34.576749897689716
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25903,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28944",
+                "sm": "23-002",
+                "lado": "derecho",
+                "altura": "5101 - 5199",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 5101,
+                "altura_hasta": 5199
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.43157933389222,
+                            -34.576486299213535
+                        ],
+                        [
+                            -58.432750028707,
+                            -34.576038960544416
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41613,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28943",
+                "sm": "23-003B",
+                "lado": "derecho",
+                "altura": "5201 - 5299",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 5201,
+                "altura_hasta": 5299
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.432950263759736,
+                            -34.57595870112346
+                        ],
+                        [
+                            -58.43398885877262,
+                            -34.575503538761566
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36701,
+                "calle": "SANTA FE AV.",
+                "tipo_calle": "CALLE",
+                "codigo_calle": "20057",
+                "id_eje": "28939",
+                "sm": "23-003C",
+                "lado": "derecho",
+                "altura": "5301 - 5399",
+                "paridad": "IMPAR",
+                "regla_general_id": 1,
+                "regla_general": "PROHIBIDO ESTACIONAR",
+                "horario_regla_general_id": 2,
+                "horario_regla_general": "DIAS HABILES DE 7 A 21 HORAS",
+                "normativa_id": 1,
+                "normativa": "PROHIBIDO ESTACIONAR",
+                "horario_normativa_id": 1,
+                "horario_normativa": "24 HORAS",
+                "tarifa": "",
+                "altura_desde": 5301,
+                "altura_hasta": 5399
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -58.434439928465565,
+                            -34.57529647796006
+                        ],
+                        [
+                            -58.4352081763507,
+                            -34.57495648468357
                         ]
                     ]
                 ]

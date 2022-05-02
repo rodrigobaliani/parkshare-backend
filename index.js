@@ -155,9 +155,9 @@ app.delete('/parkings/colab/:parkingId', async (req, res) => {
 })
 
 //Get parking instructions
-app.get('/parkings/instructions', async (req, res) => {
+app.get('/parkings/instructions/:mode', async (req, res) => {
     try {
-        const response = await parkingInstructionsController.getParkingInstructions();
+        const response = await parkingInstructionsController.getParkingInstructions(req.params.mode);
         res.status(response.code).send(response)
     } catch (error) {
         console.log(error)
