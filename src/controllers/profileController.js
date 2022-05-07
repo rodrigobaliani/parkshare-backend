@@ -8,7 +8,7 @@ const getProfileInfo = async (userId) => {
             .collection('profileInfo')
             .get();
         if (snapshot.empty) {
-            return { result: {}, code: 404 }
+            return { result: [], code: 404 }
         }
         const profileInfo = snapshot._docs().map(doc => { return { ...doc.data(), id: doc.id } })
         return { result: profileInfo, code: 200 }
