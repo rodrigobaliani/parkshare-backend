@@ -8,6 +8,7 @@ const paymentMethodsController = require(path.join(__dirname, './src/controllers
 const vehicleController = require(path.join(__dirname, './src/controllers/vehicleController.js'))
 const colabParkingController = require(path.join(__dirname, './src/controllers/colabParkingController.js'))
 const parkingInstructionsController = require(path.join(__dirname, './src/controllers/parkingInstructionsController.js'))
+const profileController = require(path.join(__dirname, './src/controllers/profileController.js'))
 
 
 const { initializeApp } = require('./src/utils/firebase');
@@ -114,7 +115,7 @@ app.put('/vehicles/:userId', async (req, res) => {
     }
 })
 
-//Delete payment method
+//Delete vehicle
 app.delete('/vehicles', async (req, res) => {
     try {
         const response = await vehicleController.deleteVehicle(req.query.userId, req.query.vehicleId)
@@ -159,6 +160,47 @@ app.get('/parkings/instructions/:mode', async (req, res) => {
     try {
         const response = await parkingInstructionsController.getParkingInstructions(req.params.mode);
         res.status(response.code).send(response)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+//Get profile info
+app.get('/profile/:userId', async (req, res) => {
+    try {
+
+        const response = await profileController.getProfileInfo(req.params.userId)
+        res.status(response.code).send(response.result)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+//Add profile info
+app.post('/profile/:userId', async (req, res) => {
+    try {
+        const response = await profileController.addProfileInfo(req.params.userId, req.body.profile)
+        res.status(response.code).send(response.result)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+//Edit profile info
+app.put('/profile/:userId', async (req, res) => {
+    try {
+        const response = await profileController.editProfileInfo(req.params.userId, req.body.docId, req.body.profile)
+        res.status(response.code).send(response.result)
+    } catch (error) {
+        console.log(error)
+    }
+})
+
+//Delete profile info
+app.delete('/profile', async (req, res) => {
+    try {
+        const response = await profileController.deleteProfileInfo(req.query.userId, req.query.docId)
+        res.status(response.code).send(response.result)
     } catch (error) {
         console.log(error)
     }
